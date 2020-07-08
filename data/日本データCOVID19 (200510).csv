@@ -1,4 +1,4 @@
-﻿exp_type,onset,confirmed,reported,is_asymptomatic
+﻿持ち込み症例,発症日,診断日,報告日,無症状
 imported,2020-01-03,NA,NA,0
 imported,2020-01-14,NA,NA,0
 imported,2020-01-21,NA,NA,0
